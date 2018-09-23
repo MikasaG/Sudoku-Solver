@@ -1,5 +1,5 @@
 SAT-based Sudoku Solver
-# Basic Function:
+# Basic Function
 
 Go to the corresponding directory:
 
@@ -27,7 +27,7 @@ The result looks like this:
 ![Sample Result](https://raw.githubusercontent.com/MikasaG/Sudoku-Solver/master/images/2.PNG)
 
 If you want to run the excutables multiple times, please delete the two directories (p096_sudoku_SAT and p096_sudoku_Result) first.
-# Extended Task 1:
+# Extended Task 1
 
 Go to the corresponding directory:
 
@@ -53,7 +53,7 @@ TOP95_Result.
 
 If you want to run the excutables multiple times, please delete the two directories (TOP95_SAT and TOP95_Result) first.
 
-# Extended Task 3:
+# Extended Task 3
 
 We implemented solving general n x n-size puzzles.
 
